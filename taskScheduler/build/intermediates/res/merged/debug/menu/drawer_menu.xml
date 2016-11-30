@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dayView"
+            android:checked="false"
+            android:title="@string/dayView" />
+        <item
+            android:id="@+id/day3View"
+            android:checked="false"
+            android:title="@string/day3View" />
+        <item
+            android:id="@+id/weekView"
+            android:checked="false"
+            android:title="@string/weekView" />
+        <item
+            android:id="@+id/monthView"
+            android:checked="false"
+            android:title="@string/monthView" />
+
+    </group>
+</menu><!-- From: file:/C:/Users/Sami/AndroidStudioProjects/TaskScheduler/taskScheduler/src/main/res/menu/drawer_menu.xml -->

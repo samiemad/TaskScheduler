@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">مدير المهام</string>
+    <string name="title_section1">اليوم</string>
+    <string name="title_section2">الاسبوع</string>
+    <string name="title_section3">الشهر</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">ضافة مهمة</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="title_activity_new_task">مهمة جديدة</string>
+
+    <string-array name="taskTypes">
+        <item>موعد</item>
+        <item>اجتماع</item>
+        <item>مناسبة</item>
+    </string-array>
+
+    <string name="taskType">نوع المهمة</string>
+
+</resources>

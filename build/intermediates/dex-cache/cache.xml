@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-b896d9935bb571cc22f68aa320d0100dee184767.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-e51406e18fb036356b5a8430f89ea1dc7869043c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-06f0439d35388ccffe395e099625509b68584b84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-e2535de8583833975a4367239a638d1ba9d9462a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-73f68e90ca6afe6f23e8c4febac0e59293747bf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-d850dfaa16b577c63cfff054dba89eba96e4069a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-88f5aa1274a58051a182c1061ee239390cbf2838.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-5c1816426def8eb268d30badd97d66fc8d455e76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-84be1fda3954acfaf0ca556e385116a92a049653.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-fcb4a9a6bf2bd98cf3a804169bca9ab7611efc28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-feff0579df9a408827896b23b9705b89b8febbdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-1dab671f907b0d608de314940d29f6e99e2e08cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-490d43229c83f4a9a6be83932c10fe3ee915e402.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-14c66cfcc07d8d934fcb9c66101d29394adfe282.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-ebdfddd9821f17d3768499c814db3473542e72cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-21312414054e2ef9dadebfd328ab10888ea0d421.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-a1001fa505b9c3fd12627afb5d6616856d54469c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-ebd22c2fcb5a15d65afbe537350f2dcc6c19e0fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Sami\AndroidStudioProjects\TaskScheduler\taskScheduler\build\intermediates\pre-dexed\release\classes-72f0256943ab4de2d51c21c5de02ea3c06de295b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,190 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutNewTask"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.scit.samiemad.taskscheduler.NewTaskActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نوع المهمة" />
+
+            <Spinner
+                android:id="@+id/spinnerTaskType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/taskTypes"
+                android:prompt="@string/taskType"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="المهمة" />
+
+            <EditText
+                android:id="@+id/etTaskName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="عنوان المهمة" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="من تاريخ" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/startTime"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="clickSetTime"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:tag="startTime"
+                    android:text="وقت البدء"
+                    android:textSize="25sp" />
+
+                <Button
+                    android:id="@+id/startDate"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="clickSetDate"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:tag="startDate"
+                    android:text="تاريخ البدء"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="إلى تاريخ" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/endTime"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="clickSetTime"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:tag="endTime"
+                    android:text="وقت الانتهاء"
+                    android:textSize="25sp" />
+
+                <Button
+                    android:id="@+id/endDate"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="clickSetDate"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:tag="endDate"
+                    android:text="تاريخ الانتهاء"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/checkBoxAllDay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="طوال اليوم"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="الموقع" />
+
+            <Button
+                android:id="@+id/bLocation"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="مكان المهمة"
+                android:onClick="clickLocation" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="المدعوون" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="الأشخاص المشاركين بالمهمة" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="التنبيهات" />
+
+            <Spinner
+                android:id="@+id/spinnerReminder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:entries="@array/reminderText"
+                android:spinnerMode="dropdown" />
+
+            <ImageButton
+                android:id="@+id/ibEventImage"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/common_full_open_on_phone"
+                android:onClick="clickImage"
+                android:src="@drawable/common_full_open_on_phone" />
+        </LinearLayout>
+
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:onClick="clickSave"
+        android:src="@android:drawable/ic_menu_save"
+        android:text="save" />
+
+</FrameLayout>

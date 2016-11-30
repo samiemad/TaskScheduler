@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">مدير المهام</string>
+    <string name="title_section1">اليوم</string>
+    <string name="title_section2">الاسبوع</string>
+    <string name="title_section3">الشهر</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_newTask">ضافة مهمة</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="title_activity_new_task">مهمة جديدة</string>
+
+    <string-array name="taskTypes">
+        <item>موعد</item>
+        <item>اجتماع</item>
+        <item>مناسبة</item>
+        <item>ملاحظة</item>
+    </string-array>
+    <string-array name="reminderText">
+        <item>لا يوجد</item>
+        <item>قبل 5 دقائق</item>
+        <item>قبل 15 دقيقة</item>
+        <item>قبل 30 دقيقة</item>
+        <item>قبل ساعة</item>
+        <item>قبل ساعتين</item>
+        <item>قبل 6 ساعات</item>
+        <item>قبل 12 ساعة</item>
+        <item>قبل 24 ساعة</item>
+    </string-array>
+
+    <string name="taskType">نوع المهمة</string>
+    <string name="title_activity_home">مدير المهام</string>
+
+    <string name="action_example">Example action</string>
+    <string name="monthView">الشهر</string>
+    <string name="weekView">اسبوع</string>
+    <string name="day3View">3 أيام</string>
+    <string name="dayView">يوم</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="action_search">بحث</string>
+    <string name="error_play_services_title">خطأ في تطبيق الخرائط</string>
+    <string name="error_play_services_info">يبدو أن هاتفك لا يحوي تطبيق خرائط غوغل</string>
+    <string name="pickImage">اختر صورة</string>
+    <string name="errorReminder">وقت التذكير قد مضى بالفعل</string>
+    <string name="errorTime">وقت الانتهاء يقع قبل وقت البدء</string>
+    <string name="errorName">يرجى ادخال اسم</string>
+
+</resources>

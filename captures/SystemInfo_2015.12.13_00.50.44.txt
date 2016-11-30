@@ -1,0 +1,2 @@
+Bad activity command, or no activities match: com.scit.samiemad.taskscheduler
+Use -h for help.

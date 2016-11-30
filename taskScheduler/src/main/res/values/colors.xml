@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_material_light">#2196f3</color>
+    <color name="primary_dark_material_light">#1976d2</color>
+    <color name="accent_material_light">#ffab00</color>
+    <color name="background_material_light">#ebf5f4</color>
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+</resources>
